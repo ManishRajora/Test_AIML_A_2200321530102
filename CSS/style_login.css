@@ -18,3 +18,15 @@
 .submit, .reset{
     border-radius: 5px;
 }
+
+button,#first,#second{
+    background-color: black;
+    color: aliceblue;
+    padding: .3em;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#first,#second{
+    width: fit-content;
+}
